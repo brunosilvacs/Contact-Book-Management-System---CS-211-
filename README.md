@@ -20,5 +20,7 @@ This is a Contact Book Management System implemented in C++. The system allows u
 
 # To compile the source code
 g++ -std=c++11 -c *.cpp
+
 g++ *.o
+
 ./a.out
